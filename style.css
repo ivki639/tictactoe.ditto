@@ -126,3 +126,10 @@ body{
     color: rgb(187, 34, 59);
     visibility: hidden;
 }
+
+
+@media screen and (max-width:600px){
+    aside, section, article{
+        width: 100%;
+    }
+}
